@@ -72,9 +72,9 @@ function render(users, selfUser) {
 
 	ctx.font = "12px sans-serif";
 	ctx.fillStyle = "silver";
-	ctx.fillText("Be gay do crime uwu", 10, 15);
+	ctx.fillText("Be cachapa molest lolis owo", 10, 15);
 	ctx.fillStyle = "black";
-	ctx.fillText("https://data.natty.sh/fedi-circles", width - 170, height - 15, 160);
+	ctx.fillText("https://circles.cachapa.cc", width - 170, height - 15, 160);
 }
 
 // Load the image from the URL and draw it in a circle
